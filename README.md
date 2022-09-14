@@ -11,7 +11,6 @@
 - [Rock Paper Scissors](https://1uum.github.io/Rock-Paper-Scissors/)
 - [Etch A Sketch](https://1uum.github.io/etch-a-sketch/)
 - [Tic Tac Toe](https://1uum.github.io/tic-tac-toe/)
-- [Etch A Sketch](https://1uum.github.io/etch-a-sketch/)
 - [Calculator](https://1uum.github.io/calculator/)
 - [Book Library](https://1uum.github.io/my-library/)
 - [To do List (not finished)](https://1uum.github.io/todo-list/)
