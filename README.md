@@ -13,5 +13,6 @@
 - [Tic Tac Toe](https://1uum.github.io/tic-tac-toe/)
 - [Calculator](https://1uum.github.io/calculator/)
 - [Book Library](https://1uum.github.io/my-library/)
-- [To do List (not finished)](https://1uum.github.io/todo-list/)
+- [BlackJack](https://1uum.github.io/blackjack/)
 - [Weather Page](https://1uum.github.io/weather-app/)
+- [Blog | Node.JS (Proyecto Final Digitalers)](https://github.com/1uum/final-project)
